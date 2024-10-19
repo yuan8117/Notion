@@ -159,7 +159,7 @@ body {
 
     <div class="counter col_third">
       <i class="fas fa-route fa-2x"></i>
-      <h2 class="timer count-title count-number" data-to="18" data-speed="1500"></h2>
+      <h2 class="timer count-title count-number" data-to="20" data-speed="1500"></h2>
       <p class="count-text ">Cities</p>
     </div>
 
